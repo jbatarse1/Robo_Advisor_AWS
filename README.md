@@ -20,20 +20,17 @@ from dateutil.relativedelta import relativedelta
 
 The following installation must be performed before running the program. It include:
 
-Use the following AWS services, which you’ll need to set up before starting to work on the learning activities:
-
-AWS Identity and Access Management (IAM)
+Use the following AWS services, which you’ll need to set up:
 
 Amazon Lex
 
 Amazon Lambda
 
 
-
 ## Usage
 
-To run this application, create a clone on the local desktop. Then, initiate your AWS account.
-
+To review this applicationm results, initiate the QT movie clicks for demonstration.
+ 
 
 ## Contributors
 
